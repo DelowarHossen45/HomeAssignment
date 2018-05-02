@@ -1,13 +1,9 @@
 #include<bits/stdc++.h>
-void sum(int a ,int b){
-	
-	cout<<"Enter Two Intiger :";
-	cin>>a>>b;
-	cout<<"Sum = "<<a+b<endl;
-}
-
 int main()
 {
-    sum();
+    int a,b;
+    cin>>a>>b;
+    cout<<a+b<<endl;
+    return 0;
 	
 }
