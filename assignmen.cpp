@@ -5,6 +5,11 @@ void sum(int a,int b){
 	return a+b;
 }
 
+//added mul
+void mul(int x,int y){
+	return x*y;
+}
+
 int main()
 {
     int a,b;
